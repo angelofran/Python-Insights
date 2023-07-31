@@ -10,7 +10,7 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 
 ## Softwares utilizados
 
-## Foram utilizados os seguintes softwares:
+Foram utilizados os seguintes softwares:
 
 * Jupyter Notebook
 * Python 3
@@ -29,4 +29,4 @@ Foram instalados os seguintes bibliotecas:
 ## Contactos
 
 * Email: angelofrancisco2008@gmail.com
-* Github: angelofran08
+* Github: github.com/angelofran
